@@ -1,0 +1,21 @@
+Day 2 — Log analysis
+
+1)Open the notebook “Workbook” located in the directory “4_Capstone” on the VM. Use what you have learned today to analyse the packet capture.
+
+Question Done: No answer needed.
+
+2) How many packets were captured (looking at the PacketNumber)?
+
+Correct Answer: 100
+
+3) What IP address sent the most amount of traffic during the packet capture?
+
+Correct Answer: 10.10.1.4
+
+4) What was the most frequent protocol?
+
+Correct Answer: ICMP
+
+5) If you enjoyed today’s task, check out the Intro to Log Analysis room.
+
+Question Done: No answer needed.

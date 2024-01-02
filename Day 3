@@ -2,7 +2,7 @@ Day 3 — Brute Force
 
 1. Using crunch and hydra, find the PIN code to access the control system and unlock the door. What is the flag?
 
-Correct Answer
+Correct : THM{pin-code-brute-force}
 
 2. If you have enjoyed this room please check out the Password Attacks room.
 
